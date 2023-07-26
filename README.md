@@ -6,6 +6,11 @@ SecurePassCLI is a Golang-based command-line tool that securely stores and retri
   <img src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
+
+## Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbalasubramani&exclude_repo=connectify,polygotvoice&layout=compact)](https://github.com/karthikbalasubramani/SecurePassCLI)
+
+
 ## Quick Start
 ### 1. Cloning the SecurePassCLI Repository:
   `git clone https://github.com/karthikbalasubramani/SecurePassCLI.git` &
