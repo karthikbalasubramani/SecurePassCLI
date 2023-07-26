@@ -1,11 +1,18 @@
 # SecurePassCLI
 SecurePassCLI is a Golang-based command-line tool that securely stores and retrieves passwords using a root password for authentication.
 
+
+## My Stats
+![GitHub commits](https://img.shields.io/github/commit-activity/y/karthikbalasubramani/SecurePassCLI.svg?label=Commits)
+![GitHub Open PRs](https://img.shields.io/github/issues-pr-raw/karthikbalasubramani/SecurePassCLI.svg?label=Open%20Pull%20Requests)
+![GitHub Closed PRs](https://img.shields.io/github/issues-pr-closed/karthikbalasubramani/SecurePassCLI.svg?label=Closed%20Pull%20Requests)
+[![GitHub last commit](https://img.shields.io/github/last-commit/karthikbalasubramani/SecurePassCLI.svg?label=Last%20Commit)](https://github.com/karthikbalasubramani/SecurePassCLI/commits/master)
+
+
 ## Technology Used
 <div>
   <img src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
-
 
 ## Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbalasubramani&exclude_repo=connectify,polygotvoice&layout=compact)](https://github.com/karthikbalasubramani/SecurePassCLI)
